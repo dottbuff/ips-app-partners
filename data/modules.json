@@ -1,0 +1,9 @@
+{
+    "admin": {
+        "partners": {
+            "default_controller": "",
+            "protected": false,
+            "default": null
+        }
+    }
+}

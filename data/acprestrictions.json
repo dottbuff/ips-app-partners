@@ -1,0 +1,10 @@
+{
+    "partners": {
+        "settings": {
+            "settings_manage": "settings_manage"
+        },
+        "manage": {
+            "manage_manage": "manage_manage"
+        }
+    }
+}

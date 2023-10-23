@@ -1,0 +1,103 @@
+{
+    "dbpartners_partners": {
+        "name": "dbpartners_partners",
+        "columns": {
+            "dbpartners_name": {
+                "name": "dbpartners_name",
+                "type": "VARCHAR",
+                "length": 255,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_image": {
+                "name": "dbpartners_image",
+                "type": "TEXT",
+                "length": null,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_enabled": {
+                "name": "dbpartners_enabled",
+                "type": "INT",
+                "length": null,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": "1",
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_position": {
+                "name": "dbpartners_position",
+                "type": "INT",
+                "length": null,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": 0,
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_link": {
+                "name": "dbpartners_link",
+                "type": "MEDIUMTEXT",
+                "length": null,
+                "decimals": null,
+                "values": null,
+                "allow_null": true,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_linkEnabled": {
+                "name": "dbpartners_linkEnabled",
+                "type": "INT",
+                "length": null,
+                "decimals": null,
+                "values": null,
+                "allow_null": true,
+                "default": "1",
+                "comment": "",
+                "unsigned": false,
+                "auto_increment": false
+            },
+            "dbpartners_id": {
+                "name": "dbpartners_id",
+                "type": "BIGINT",
+                "length": "20",
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": 0,
+                "comment": "ID Number",
+                "unsigned": true,
+                "auto_increment": true
+            }
+        },
+        "indexes": {
+            "PRIMARY": {
+                "type": "primary",
+                "name": "PRIMARY",
+                "columns": [
+                    "dbpartners_id"
+                ],
+                "length": [
+                    null
+                ]
+            }
+        }
+    }
+}

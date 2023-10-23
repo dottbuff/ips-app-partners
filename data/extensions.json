@@ -1,0 +1,7 @@
+{
+    "core": {
+        "FileStorage": {
+            "Images": "IPS\\dbpartners\\extensions\\core\\FileStorage\\Images"
+        }
+    }
+}

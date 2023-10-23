@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build>
+ <module key="admin/partners"><![CDATA[{"default_controller":"","protected":false,"default":null}]]></module>
+ <setting key="dbpartners_swiper_autoplay"><![CDATA[{"key":"dbpartners_swiper_autoplay","default":"1"}]]></setting>
+ <setting key="dbpartners_swiper_autoplay_delay"><![CDATA[{"key":"dbpartners_swiper_autoplay_delay","default":"2500"}]]></setting>
+ <setting key="dbpartners_swiper_loop"><![CDATA[{"key":"dbpartners_swiper_loop","default":"1"}]]></setting>
+ <setting key="dbpartners_swiper_pagination"><![CDATA[{"key":"dbpartners_swiper_pagination","default":"none"}]]></setting>
+ <setting key="dbpartners_swiper_pagination_clickable"><![CDATA[{"key":"dbpartners_swiper_pagination_clickable","default":"1"}]]></setting>
+ <widget key="dbPartners"><![CDATA[{"class":"\\IPS\\Widget","restrict":["sidebar","cms"],"default_area":"sidebar","allow_reuse":false,"menu_style":"menu","embeddable":false}]]></widget>
+ <hook key="dbPartners_swiper"><![CDATA[{"type":"S","class":"\\IPS\\Theme\\class_core_front_global"}]]></hook>
+</build>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="dbpartners" version="10000">
+  <word key="__app_dbpartners" js="0">(db) Partners</word>
+  <word key="menutab__dbpartners_icon" js="0">users</word>
+  <word key="menutab__dbpartners" js="0">(db) Partners</word>
+  <word key="menu__dbpartners_partners_settings" js="0">Settings</word>
+  <word key="menu__dbpartners_partners_manage" js="0">Manage</word>
+  <word key="menu__dbpartners_partners" js="0">Partners</word>
+  <word key="dbpartners_header_partners_details" js="0">Partner details</word>
+  <word key="dbpartners_name" js="0">Name</word>
+  <word key="dbpartners_image" js="0">Logo</word>
+  <word key="dbpartners_linkEnabled" js="0">Link enabled?</word>
+  <word key="dbpartners_link" js="0">Link to partner page</word>
+  <word key="dbpartners_swiper_loop" js="0">Loop enabled?</word>
+  <word key="dbpartners_swiper_autoplay" js="0">Autoplay enabled?</word>
+  <word key="dbpartners_swiper_autoplay_delay" js="0">Delay</word>
+  <word key="dbpartners_swiper_pagination" js="0">Pagination</word>
+  <word key="dbpartners_swiper_pagination_none" js="0">None</word>
+  <word key="dbpartners_swiper_pagination_pagination" js="0">Dots</word>
+  <word key="dbpartners_swiper_pagination_arrows" js="0">Arrows</word>
+  <word key="dbpartners_swiper_pagination_scrollbar" js="0">Scrollbar</word>
+  <word key="dbpartners_block_title" js="0">Partners</word>
+  <word key="block_dbPartners" js="0">Partners block</word>
+  <word key="block_dbPartners_desc" js="0">Adds a block with partner logos in the slider</word>
+  <word key="dbpartners_link_empty" js="0">No link provided</word>
+ </app>
+</language>

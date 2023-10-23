@@ -1,0 +1,22 @@
+[
+    {
+        "key": "dbpartners_swiper_autoplay",
+        "default": "1"
+    },
+    {
+        "key": "dbpartners_swiper_autoplay_delay",
+        "default": "2500"
+    },
+    {
+        "key": "dbpartners_swiper_loop",
+        "default": "1"
+    },
+    {
+        "key": "dbpartners_swiper_pagination",
+        "default": "none"
+    },
+    {
+        "key": "dbpartners_swiper_pagination_clickable",
+        "default": "1"
+    }
+]

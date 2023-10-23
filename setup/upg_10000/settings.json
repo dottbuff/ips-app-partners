@@ -1,0 +1,11 @@
+{
+    "added": [
+        "dbpartners_swiper_autoplay",
+        "dbpartners_swiper_autoplay_delay",
+        "dbpartners_swiper_loop",
+        "dbpartners_swiper_pagination",
+        "dbpartners_swiper_pagination_clickable"
+    ],
+    "edited": [],
+    "removed": []
+}

@@ -1,0 +1,18 @@
+{
+    "partners": {
+        "manage": {
+            "tab": "dbpartners",
+            "controller": "manage",
+            "do": "",
+            "restriction": "manage_manage",
+            "subcontrollers": ""
+        },
+        "settings": {
+            "tab": "dbpartners",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage",
+            "subcontrollers": ""
+        }
+    }
+}

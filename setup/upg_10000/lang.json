@@ -1,0 +1,36 @@
+{
+    "normal": {
+        "added": [
+            "__app_dbpartners",
+            "menutab__dbpartners_icon",
+            "menutab__dbpartners",
+            "menu__dbpartners_partners_settings",
+            "menu__dbpartners_partners_manage",
+            "menu__dbpartners_partners",
+            "dbpartners_header_partners_details",
+            "dbpartners_name",
+            "dbpartners_image",
+            "dbpartners_linkEnabled",
+            "dbpartners_link",
+            "dbpartners_swiper_loop",
+            "dbpartners_swiper_autoplay",
+            "dbpartners_swiper_autoplay_delay",
+            "dbpartners_swiper_pagination",
+            "dbpartners_swiper_pagination_none",
+            "dbpartners_swiper_pagination_pagination",
+            "dbpartners_swiper_pagination_arrows",
+            "dbpartners_swiper_pagination_scrollbar",
+            "dbpartners_block_title",
+            "block_dbPartners",
+            "block_dbPartners_desc",
+            "dbpartners_link_empty"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

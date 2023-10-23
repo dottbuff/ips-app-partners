@@ -1,0 +1,23 @@
+{
+    "html": {
+        "added": [
+            "front\/resources\/javascript",
+            "front\/widgets\/dbPartners"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "css": {
+        "added": [
+            "front\/swiper.min.css",
+            "front\/dbpartners.css"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "resources": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}
